@@ -1,12 +1,12 @@
 ## NerdInDisguise ##
 
-
 ### Project Description ###
 Omniscient is a tracker that uses Blockchain, AI and IoT to overcome security and data privacy problem.
 
 ### Submission ###
-[Link to Slides](https://github.com/ammarsyatbi/NerdInDisguise-GBEC-Hackhaton-Submission/blob/master/GBEC%20HACK.pptx)
-[Link to Code](https://github.com/ammarsyatbi/NerdInDisguise-GBEC-Hackhaton-Submission)
+- [Link to Slides](https://github.com/ammarsyatbi/NerdInDisguise-GBEC-Hackhaton-Submission/blob/master/GBEC%20HACK.pptx)
+- [Link to Code](https://github.com/ammarsyatbi/NerdInDisguise-GBEC-Hackhaton-Submission)
+- [Link to video](https://github.com/ammarsyatbi/NerdInDisguise-GBEC-Hackhaton-Submission/blob/master/NerdInDisguise.rar)
 
 ### Team Members and Contact info ### 
 * Team Member 1 : ammarsyatbi ammarsyatbi@gmail.com
@@ -16,4 +16,4 @@ Omniscient is a tracker that uses Blockchain, AI and IoT to overcome security an
 * Team Member 5 : izzatamar izzatamar95@gmail.com
 
 
-[Link to video](https://github.com/ammarsyatbi/NerdInDisguise-GBEC-Hackhaton-Submission/blob/master/NerdInDisguise.rar)
+
